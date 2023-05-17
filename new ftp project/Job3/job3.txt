@@ -1,0 +1,2 @@
+sudo adduser Merry --shell /bin/false --home /home/Merry --force-badname
+sudo adduser Pippin --shell /bin/false --home /home/Pippin --force-badname
